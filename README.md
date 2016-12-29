@@ -35,8 +35,11 @@ solution.print();
 
 Generates a Gif to show how the program solved the problem **step-by-step**
 
+### PriorityQueueImpl()
 ![Result](/gif/graph.gif)
 
+### StackImpl()
+![Result](/gif/graph2.gif)
 
 ## Three search methods 
 
